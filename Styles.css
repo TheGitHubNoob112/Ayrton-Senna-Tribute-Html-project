@@ -19,7 +19,7 @@ body::before {
   background-image: url('https://i.pinimg.com/736x/ee/d0/45/eed0454430d6e5bce69ff5bbeb7d08a1.jpg'); /* replace with your image */
   background-size: cover;
   background-position: center;
-  filter: blur(4.5px);    /* blur amount */
+  filter: blur(5px);    /* blur amount */
   z-index: -1;           /* behind everything */
 }
 
@@ -78,4 +78,5 @@ body::after {
 #tribute-link{
   color: yellow
 }
+
 
